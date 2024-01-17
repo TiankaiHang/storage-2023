@@ -1,5 +1,13 @@
 # storage-2023
 
+## diffusers
+
+### diable tqdm in pipeline
+
+```bash
+pipeline.set_progress_bar_config(disable=True)
+```
+
 ## Init script
 
 ```bash
